@@ -10,8 +10,10 @@
         "@types/vue-router": "^2.0.0",
         "axios": "^1.2.1",
         "dplayer": "^1.27.0",
+        "element-plus": "^2.4.4",
         "hls.js": "^1.2.9",
         "qs": "^6.11.0",
+        "vite-plugin-cesium": "^1.2.22",
         "vue": "^3.2.16",
         "vue-router": "^4.0.11",
         "vuex": "^4.0.2"
