@@ -1,0 +1,6 @@
+node_modules
+jianguan
+.DS_Store
+dist
+dist-ssr
+*.local
